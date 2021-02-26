@@ -23,6 +23,7 @@ namespace KampIntro1
             urun3.urunMiktari = 25;
 
 
+
            Urun[] urunler = new Urun[] {urun1,urun2,urun3 };
 
             foreach (var item in urunler)
