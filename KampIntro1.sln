@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro1", "KampIntro1\KampIntro1.csproj", "{746813E7-1405-438D-89FC-08C52630AB86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodlar", "..\Metodlar\Metodlar\Metodlar.csproj", "{A8342A62-0F0E-4820-9EF2-8AAB16E2E5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{746813E7-1405-438D-89FC-08C52630AB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746813E7-1405-438D-89FC-08C52630AB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746813E7-1405-438D-89FC-08C52630AB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746813E7-1405-438D-89FC-08C52630AB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8342A62-0F0E-4820-9EF2-8AAB16E2E5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8342A62-0F0E-4820-9EF2-8AAB16E2E5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8342A62-0F0E-4820-9EF2-8AAB16E2E5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8342A62-0F0E-4820-9EF2-8AAB16E2E5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D8B6F3-37E8-4EFE-9DE4-5A77967F4437}
+	EndGlobalSection
+EndGlobal
